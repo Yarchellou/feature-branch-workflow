@@ -3,4 +3,6 @@ int main()
 int i=7;
 
 cout<<"i="<<i<<endl;
+
+i++;
 }
