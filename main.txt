@@ -5,4 +5,11 @@ int i=7;
 cout<<"i="<<i<<endl;
 
 i++;
+
+cout<<add(5, 3)<<endl;
+}
+
+int add(int a, int b)
+{
+return a+b;
 }
