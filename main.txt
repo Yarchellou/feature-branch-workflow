@@ -7,6 +7,8 @@ cout<<"i="<<i<<endl;
 i++;
 
 cout<<add(5, 3)<<endl;
+cout<<add(11, 1)<<endl;
+
 }
 
 int add(int a, int b)
